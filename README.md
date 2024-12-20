@@ -10,14 +10,15 @@ This repository showcases 5 marketing analytics projects that demonstrate a rang
 - **Key Techniques**:  
   - Data preprocessing and exploratory analysis of 70,000 rows of customer data.  
   - Applied **K-means clustering** for customer segmentation.  
-  - Developed **models** (logistic regression, decision tree, random forest) for feature importance analysis and churn prediction in Python.  
+  - Developed **classification models** (logistic regression, decision tree, random forest) for feature importance analysis and churn prediction in Python.  
 - **Outcome**:  
   - Delivered actionable insights to inform proactive retention strategies.  
   - Created data visualizations and presentations for stakeholder communication.
  
 ### 2. **Optimizing Loyalty Program Management**  
-- **Objective**: Predict churn likelihood and analyze customer lifetime value to optimize loyalty program management.  
+*Role: Data Analyst & Project Coordinator (Team of 4)*
+- **Objective**: Predict churn likelihood and analyze customer lifetime revenue to optimize loyalty program management.  
 - **Key Techniques**:  
-  - Performed customer segmentation and value analysis using **Excel** and **R Studio**.  
-  - Developed churn prediction models to identify at-risk customers.  
+  - Performed customer segmentation and RFM analysis using **Excel Analysis Toolpak** and **R Studio**.  
+  - Developed churn prediction models to identify at-risk customers and estimate customer value using the predicted retention likelihood.  
 - **Outcome**: Provided recommendations for targeted loyalty campaigns to maximize customer retention and profitability.  
